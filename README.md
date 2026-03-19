@@ -1,7 +1,7 @@
-# Exp-1 ATM & BANKING SYSTEM
-
+# Exp - 2 LIBRARY MANAGEMENT SYSTEM
 # AIM:
-To draw the UML diagram for ATM and Banking System.
+To develop a Library Management System that efficiently manages book records, member details, book issuance, and returns, helping librarians organize and track library activities.
+
 # SRS (Procedure):
 # Step 1: Problem Identification
 The main problem is the need for a fast, secure, and automated system that allows customers to perform banking transactions (like withdrawal, deposit, and fund transfer) without depending on bank staff.
