@@ -4,12 +4,12 @@ To develop a Library Management System that efficiently manages book records, me
 
 # SRS (Procedure):
 # Step 1: Problem Identification
-The main problem is the need for a fast, secure, and automated system that allows customers to perform banking transactions (like withdrawal, deposit, and fund transfer) without depending on bank staff.
+Manual library operations like issuing, returning, and tracking books are time-consuming and prone to errors. The system aims to automate these processes.
 
 # Step 2: Requirement Analysis
-Identify user needs (customer, admin, staff).
-Define functional requirements: login, balance check, withdrawal, deposit, transfer, PIN change.
-Define non-functional requirements: speed, security, reliability, and usability.
+Identify user roles: Admin, Librarian, Student.
+Define main functions: Add books, issue/return books, search books, manage members, generate reports.
+Set non-functional needs: reliability, security, and easy interface.
 
 # Step 3: System Design
 ## Draw UML diagrams to represent the system:
